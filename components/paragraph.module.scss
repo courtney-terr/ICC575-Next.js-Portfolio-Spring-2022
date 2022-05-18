@@ -1,0 +1,10 @@
+.paragraph {
+    font-family: Arial;
+    font-size: 1rem;
+    color: black;
+    &.intro{
+        font-size: 2rem;
+        color: green;
+        font-family: Georgia;
+    }
+}// paragraph parent end
